@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "ACCOUNT":"demotabla1235",
+    "ACCOUNTKEY": "kzShm07GmgrVqcXsE8URr15xG+pYO+S5olYCc8apTuS3hBHlB7nqkgjh9J5Ro9PW1f2+Nnbe/arc+AStY8yuhw==",
+    "AZURE_STORAGE_ACCOUNT_NAME":"demotabla1235"
+  }
+}
